@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: a80ff2708af34c24e9c962c802a62b43
+timeCreated: 1535735983
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 018
+    100002: 019
+    100004: 1
+    100006: 10
+    100008: 12
+    100010: 13
+    100012: 14
+    100014: 15
+    100016: 16
+    100018: 17
+    100020: 2
+    100022: 3
+    100024: 4
+    100026: 5
+    100028: 6
+    100030: 7
+    100032: 8
+    100034: 9
+    100036: Group01
+    100038: hanger
+    100040: //RootNode
+    400000: 018
+    400002: 019
+    400004: 1
+    400006: 10
+    400008: 12
+    400010: 13
+    400012: 14
+    400014: 15
+    400016: 16
+    400018: 17
+    400020: 2
+    400022: 3
+    400024: 4
+    400026: 5
+    400028: 6
+    400030: 7
+    400032: 8
+    400034: 9
+    400036: Group01
+    400038: hanger
+    400040: //RootNode
+    2100000: st wood
+    2100002: standart metal
+    2100004: st textile
+    2100006: white
+    2300000: 018
+    2300002: 019
+    2300004: 1
+    2300006: 10
+    2300008: 12
+    2300010: 13
+    2300012: 14
+    2300014: 15
+    2300016: 16
+    2300018: 17
+    2300020: 2
+    2300022: 3
+    2300024: 4
+    2300026: 5
+    2300028: 6
+    2300030: 7
+    2300032: 8
+    2300034: 9
+    2300036: hanger
+    3300000: 018
+    3300002: 019
+    3300004: 1
+    3300006: 10
+    3300008: 12
+    3300010: 13
+    3300012: 14
+    3300014: 15
+    3300016: 16
+    3300018: 17
+    3300020: 2
+    3300022: 3
+    3300024: 4
+    3300026: 5
+    3300028: 6
+    3300030: 7
+    3300032: 8
+    3300034: 9
+    3300036: hanger
+    4300000: hanger
+    4300002: 2
+    4300004: 15
+    4300006: 16
+    4300008: 17
+    4300010: 9
+    4300012: 10
+    4300014: 8
+    4300016: 12
+    4300018: 13
+    4300020: 14
+    4300022: 4
+    4300024: 5
+    4300026: 7
+    4300028: 6
+    4300030: 3
+    4300032: 1
+    4300034: 018
+    4300036: 019
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

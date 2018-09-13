@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRShowrooms", "VRShowrooms.csproj", "{3B2B53B5-41C4-6B03-29AD-99F8649B1844}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRShowrooms.Plugins", "VRShowrooms.Plugins.csproj", "{009D1DD6-2BC4-2BBF-A55F-05948BFA001A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRShowrooms.Editor", "VRShowrooms.Editor.csproj", "{4CCC43E7-00A3-0F86-E925-2968334261F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B2B53B5-41C4-6B03-29AD-99F8649B1844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2B53B5-41C4-6B03-29AD-99F8649B1844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2B53B5-41C4-6B03-29AD-99F8649B1844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2B53B5-41C4-6B03-29AD-99F8649B1844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{009D1DD6-2BC4-2BBF-A55F-05948BFA001A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009D1DD6-2BC4-2BBF-A55F-05948BFA001A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009D1DD6-2BC4-2BBF-A55F-05948BFA001A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009D1DD6-2BC4-2BBF-A55F-05948BFA001A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CCC43E7-00A3-0F86-E925-2968334261F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CCC43E7-00A3-0F86-E925-2968334261F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CCC43E7-00A3-0F86-E925-2968334261F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CCC43E7-00A3-0F86-E925-2968334261F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

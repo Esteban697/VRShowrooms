@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 754c94decf90c8e48bdf968da1639506
+timeCreated: 1534005674
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Corner1
+    100002: Corner2
+    100004: Corner3
+    100006: Corner4
+    100008: extrudedSurface1
+    100010: extrudedSurface2
+    100012: extrudedSurface3
+    100014: extrudedSurface4
+    100016: extrudedSurface5
+    100018: //RootNode
+    100020: SideDown
+    100022: SideLeft
+    100024: SideRight
+    100026: SideUp
+    400000: Corner1
+    400002: Corner2
+    400004: Corner3
+    400006: Corner4
+    400008: extrudedSurface1
+    400010: extrudedSurface2
+    400012: extrudedSurface3
+    400014: extrudedSurface4
+    400016: extrudedSurface5
+    400018: //RootNode
+    400020: SideDown
+    400022: SideLeft
+    400024: SideRight
+    400026: SideUp
+    2100000: lambert1
+    2300000: Corner1
+    2300002: Corner2
+    2300004: Corner3
+    2300006: Corner4
+    2300008: extrudedSurface1
+    2300010: extrudedSurface2
+    2300012: extrudedSurface3
+    2300014: extrudedSurface4
+    2300016: extrudedSurface5
+    2300018: SideDown
+    2300020: SideLeft
+    2300022: SideRight
+    2300024: SideUp
+    3300000: Corner1
+    3300002: Corner2
+    3300004: Corner3
+    3300006: Corner4
+    3300008: extrudedSurface1
+    3300010: extrudedSurface2
+    3300012: extrudedSurface3
+    3300014: extrudedSurface4
+    3300016: extrudedSurface5
+    3300018: SideDown
+    3300020: SideLeft
+    3300022: SideRight
+    3300024: SideUp
+    4300000: Corner1
+    4300002: SideRight
+    4300004: Corner2
+    4300006: SideLeft
+    4300008: SideDown
+    4300010: Corner4
+    4300012: Corner3
+    4300014: SideUp
+    4300016: extrudedSurface1
+    4300018: extrudedSurface2
+    4300020: extrudedSurface3
+    4300022: extrudedSurface4
+    4300024: extrudedSurface5
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
